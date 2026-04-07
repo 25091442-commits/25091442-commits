@@ -10,4 +10,4 @@ I'm Sanjushree, a Master of Computer Science (AC) student at UM.
 - ⚡ Fun fact: I love cooking in my free time.
 - 📫 **How to reach me:**25091442@siswa.um.edu.my
 
-![My Image](sanju.jpg) <!-- Link to the uploaded image -->
+![My Image](sanju.jpg)
